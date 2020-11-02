@@ -1,5 +1,7 @@
 # real-world-vue-3
 
+Associated with the [Vue Mastery course](https://github.com/code-pop/real-world_vue-3)
+
 ## Project setup
 ```
 yarn install
